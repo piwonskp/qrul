@@ -1,0 +1,8 @@
+Int as
+Int n
+Float b
+
+as 6
+n as
+b 2.3
+n
